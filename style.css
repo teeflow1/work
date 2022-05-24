@@ -1,0 +1,30 @@
+.btn{
+  background-color: #f9004d;
+  color: white;
+  text-decoration: none;
+  border: 1px soild transparent;
+  font-weight: bold;
+  padding: 10px 30px;
+  border-radius: 30px;
+  transition: transform .4s;
+
+}
+#first-p{
+  background: rgb(48,46,15);
+background: linear-gradient(90deg, rgba(48,46,15,1) 0%, rgba(124,121,13,0.5634628851540616) 52%);
+}
+.nav-link{
+  padding: 20px 18px;
+}
+.pic{
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+.text{
+  color: red;
+}
+p{
+  color: white;
+  font-size: 24px;
+  font-family: arial sans-serif;
+}
